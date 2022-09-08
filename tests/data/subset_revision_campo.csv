@@ -1,0 +1,1113 @@
+ID_camara_trampa,Zona,Coordenada_Este,Coordenada_Norte,Fecha_revision_campo,Fecha_envio_datos,Responsable_cambio_memoria,Revision,Estado_camara,Estado_memoria,Porcentaje_de_bateria,Observaciones
+CA-02-010-TC,2,376528,3203727,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,51,NA
+CA-03-011-CA,3,376105,3204567,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,44,NA
+CA-03-012-CA,3,376679,3204890,25/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,50,NA
+CA-03-013-CA,3,377030,3205568,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,43,NA
+CA-03-014-CA,3,377553,3206074,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,53,NA
+CA-03-015-CA,3,378092,3206226,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,40,NA
+CA-03-016-CA,3,378018,3207028,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,28,NA
+CA-03-017-CA,3,378060,3207984,23/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-03-017-CA,3,378060,3207984,27/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-03-017-CA,3,378060,3207984,24/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-03-017-CA,3,378060,3207984,30/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-03-018-CA,3,377701,3208818,30/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,49,NA
+CA-03-018-CA,3,377701,3208818,11/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,49,NA
+CA-03-019-CA,3,377368,3209599,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,NA,NA
+CA-03-020-CA,3,376564,3210201,21/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-020-CA,3,376564,3210201,24/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-020-CA,3,376564,3210201,26/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-020-CA,3,376564,3210201,13/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-020-CA,3,376564,3210201,16/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-021-CA,3,375781,3210807,25/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,26/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,30/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,11/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,38,NA
+CA-04-022-CA,4,376083,3211390,11/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,46,NA
+CA-04-023-CA,4,375750,3212148,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,NA,NA
+CA-04-024-CA,4,375166,3212910,26/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,32,NA
+CA-04-025-CA,4,374874,3213653,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,50,NA
+CA-04-026-CA,4,374282,3214159,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,35,NA
+CA-05-027-CA,5,373974,3215014,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,40,NA
+CA-05-028-CA,5,373891,3215997,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,50,NA
+CA-05-029-CA,5,373918,3216924,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,35,NA
+CA-05-030-CA,5,373151,3217342,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,45,NA
+CA-06-031-CA,6,373212,3218239,26/Abr/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-06-031-CA,6,373212,3218239,08/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-06-031-CA,6,373212,3218239,12/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,39,NA
+CA-06-032-CA,6,372543,3218939,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,36,NA
+CA-06-033-CA,6,372149,3219771,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,38,NA
+CA-06-034-CA,6,371420,3220438,14/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,50,NA
+CA-06-034-CA,6,371420,3220438,15/May/2020,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,50,NA
+CA-07-035-CA,7,370783,3221181,NA,17/May/2020,Shamed Galicia/Emmanuel Mendoza,si,A,MF,42,NA
+CA-01-001-CA,1,375311,3196733,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,NA
+CA-01-002-CA,1,375555,3197590,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,41,NA
+CA-01-003-CA,1,375638,3198565,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,42,NA
+CA-01-004-CA,1,376077,3199390,26/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,33,Individuo color negro
+CA-01-005-CA,1,376045,3200225,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,37,NA
+CA-01-006-CA,1,375236,3200753,16/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,47,Esta mal la hora; individuo negro
+CA-01-006-CA,1,375236,3200753,29/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,47,Esta mal la hora; individuo atigrado
+CA-02-007-CA,2,375491,3201613,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,43,Al parecer no funciona el infrarojo
+CA-02-008-CA,2,375937,3202460,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,37,NA
+CA-02-009-CA,2,376503,3203157,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,42,NA
+CA-02-010-TC,2,376528,3203727,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,49,NA
+CA-03-011-CA,3,376105,3204567,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,47,Se agoto la bateria de la camara
+CA-03-012-CA,3,376679,3204890,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,45,NA
+CA-03-013-CA,3,377030,3205568,19/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,45,Individuo negro
+CA-03-013-CA,3,377030,3205568,01/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,45,Individuo negro
+CA-03-014-CA,3,377553,3206074,27/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,49,Individuo atigrado
+CA-03-015-CA,3,378092,3206226,20/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,33,Individuo negro
+CA-03-015-CA,3,378092,3206226,26/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,33,Individuo negro
+CA-03-015-CA,3,378092,3206226,27/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,33,Individuo negro
+CA-03-015-CA,3,378092,3206226,29/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,33,Individuo negro
+CA-03-015-CA,3,378092,3206226,30/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,33,Individuo negro
+CA-03-016-CA,3,378018,3207028,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,70,NA
+CA-03-017-CA,3,378060,3207984,21/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,75,Individuo atigrado
+CA-03-017-CA,3,378060,3207984,22/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,75,Individuo atigrado
+CA-03-017-CA,3,378060,3207984,24/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,75,Individuo atigrado
+CA-03-017-CA,3,378060,3207984,04/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,75,Individuo atigrado
+CA-03-017-CA,3,378060,3207984,06/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,75,Individuo atigrado
+CA-03-017-CA,3,378060,3207984,07/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,75,Individuo atigrado
+CA-03-018-CA,3,377701,3208818,18/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,Individuo negro
+CA-03-018-CA,3,377701,3208818,20/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,Individuo negro
+CA-03-018-CA,3,377701,3208818,26/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,Individuo negro
+CA-03-018-CA,3,377701,3208818,01/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,NA
+CA-03-018-CA,3,377701,3208818,02/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,Individuo atigrado
+CA-03-018-CA,3,377701,3208818,09/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,Individuo negro
+CA-03-019-CA,3,377368,3209599,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,70,NA
+CA-03-020-CA,3,376564,3210201,16/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,35,Individuo negro
+CA-03-020-CA,3,376564,3210201,23/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,35,Individuo negro
+CA-03-020-CA,3,376564,3210201,28/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,35,Individuo negro
+CA-03-020-CA,3,376564,3210201,30/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,35,Individuo negro
+CA-03-021-CA,3,375781,3210807,18/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,Individuo atigrado
+CA-03-021-CA,3,375781,3210807,21/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,Individuo atigrado
+CA-03-021-CA,3,375781,3210807,22/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,Individuo atigrado
+CA-03-021-CA,3,375781,3210807,23/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,Individuo atigrado
+CA-03-021-CA,3,375781,3210807,30/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,Individuo atigrado
+CA-04-022-CA,4,376083,3211390,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,22,NA
+CA-04-023-CA,4,375750,3212148,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,37,NA
+CA-04-024-CA,4,375166,3212910,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,78,NA
+CA-04-025-CA,4,374874,3213653,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,25,NA
+CA-04-026-CA,4,374282,3214159,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,34,NA
+CA-05-027-CA,5,373974,3215014,21/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,41,Individuo atigrado
+CA-05-028-CA,5,373891,3215997,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,43,NA
+CA-05-029-CA,5,373918,3216924,18/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,42,Individuo negro
+CA-05-029-CA,5,373918,3216924,30/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,42,Individuo atigrado
+CA-05-030-CA,5,373151,3217342,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,44,NA
+CA-06-031-CA,6,373212,3218239,20/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,39,Individuo atigrado
+CA-06-031-CA,6,373212,3218239,22/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,39,Individuo atigrado
+CA-06-031-CA,6,373212,3218239,02/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,39,Individuo atigrado
+CA-06-032-CA,6,372543,3218939,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,37,NA
+CA-06-033-CA,6,372149,3219771,28/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,37,Individuo atigrado
+CA-06-033-CA,6,372149,3219771,07/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,38,Individuo atigrado
+CA-06-034-CA,6,371420,3220438,19/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,48,Individuo atigrado
+CA-06-034-CA,6,371420,3220438,20/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,48,Individuo atigrado
+CA-06-034-CA,6,371420,3220438,28/Jun/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,48,Individuo atigrado
+CA-06-034-CA,6,371420,3220438,07/Jul/2020,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,48,Individuo atigrado
+CA-07-035-CA,7,370783,3221181,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,42,NA
+CA-01-001-ED,1,373960,3196309,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,30,NA
+CA-01-002-EF,1,373993,3196320,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,30,NA
+CA-01-003-OD,1,373893,3196557,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,76,NA
+CA-01-004-OF,1,373942,3196581,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,67,NA
+CA-01-005-PF,1,373993,3196320,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,45,NA
+CA-01-006-PD,1,373960,3196309,NA,11/Jul/2020,Emmanuel Mendoza/Luis Martinez,si,A,MF,36,NA
+CA-01-001-CA,1,375311,3196733,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,44,NA
+CA-01-002-CA,1,375555,3197590,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,35,NA
+CA-01-003-CA,1,375638,3198565,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,42,NA
+CA-01-004-CA,1,376077,3199390,24/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,39,Gato color negro
+CA-01-005-CA,1,376045,3200225,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,37,NA
+CA-01-006-CA,1,375236,3200753,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,54,NA
+CA-02-007-CA,2,375491,3201613,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,55,Al parecer no funciona el infrarojo
+CA-02-008-CA,2,375937,3202460,25/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,47,Individuo atigrado
+CA-02-009-CA,2,376503,3203157,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,52,NA
+CA-02-010-TC,2,376528,3203727,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,39,NA
+CA-03-011-CA,3,376105,3204567,19/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,57,NA
+CA-03-011-CA,3,376105,3204567,26/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,57,NA
+CA-03-012-CA,3,376679,3204890,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,55,NA
+CA-03-013-CA,3,377030,3205568,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,42,NA
+CA-03-014-CA,3,377553,3206074,06/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,49,NA
+CA-03-015-CA,3,378092,3206226,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,39,NA
+CA-03-016-CA,3,378018,3207028,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,0,NA
+CA-03-017-CA,3,378060,3207984,06/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,26,NA
+CA-03-018-CA,3,377701,3208818,18/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,24/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,29/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,30/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,09/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,10/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,11/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,45,NA
+CA-03-019-CA,3,377368,3209599,25/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,49,individuo capturado
+CA-03-019-CA,3,377368,3209599,27/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,49,NA
+CA-03-019-CA,3,377368,3209599,09/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,49,NA
+CA-03-019-CA,3,377368,3209599,10/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,49,NA
+CA-03-020-CA,3,376564,3210201,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,42,NA
+CA-03-021-CA,3,375781,3210807,25/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,27/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,29/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,09/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-03-021-CA,3,375781,3210807,10/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-04-022-CA,4,376083,3211390,16/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,42,NA
+CA-04-023-CA,4,375750,3212148,20/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-04-023-CA,4,375750,3212148,21/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-04-023-CA,4,375750,3212148,27/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-04-024-CA,4,375166,3212910,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,26,NA
+CA-04-025-CA,4,374874,3213653,14/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-04-026-CA,4,374282,3214159,07/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-05-027-CA,5,373974,3215014,05/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,41,NA
+CA-05-027-CA,5,373974,3215014,08/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,41,NA
+CA-05-028-CA,5,373891,3215997,08/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,48,NA
+CA-05-029-CA,5,373918,3216924,04/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,42,NA
+CA-05-030-CA,5,373151,3217342,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,44,NA
+CA-06-031-CA,6,373212,3218239,02/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,39,NA
+CA-06-031-CA,6,373212,3218239,12/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,39,NA
+CA-06-031-CA,6,373212,3218239,15/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,39,NA
+CA-06-032-CA,6,372543,3218939,25/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,40,NA
+CA-06-032-CA,6,372543,3218939,30/May/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,40,NA
+CA-06-033-CA,6,372149,3219771,11/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-06-033-CA,6,372149,3219771,13/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,38,NA
+CA-06-034-CA,6,371420,3220438,08/Jun/2020,16/Jun/2020,Jessica/Emmanuel,si,A,MF,49,NA
+CA-07-035-CA,7,370783,3221181,NA,16/Jun/2020,Jessica/Emmanuel,si,A,MF,42,NA
+CA-01-001-CA,1,375311,3196733,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-01-002-CA,1,375555,3197590,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-01-003-CA,1,375638,3198565,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-01-004-CA,1,376077,3199390,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,12,NA
+CA-01-005-CA,1,376045,3200225,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,42,NA
+CA-01-006-CA,1,375236,3200753,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,44,NA
+CA-02-007-CA,2,375491,3201613,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-02-008-CA,2,375937,3202460,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,30,NA
+CA-02-009-CA,2,376503,3203157,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-02-010-CA,2,376552,3203709,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-03-011-CA,3,376105,3204567,19/May/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,62,NA
+CA-03-011-CA,3,376105,3204567,26/May/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,62,NA
+CA-03-012-CA,3,376679,3204890,30/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,81,NA
+CA-03-013-CA,3,377030,3205568,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-03-014-CA,3,377553,3206074,13/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,46,NA
+CA-03-014-CA,3,377553,3206074,16/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,46,NA
+CA-03-014-CA,3,377553,3206074,27/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,46,NA
+CA-03-015-CA,3,378092,3206226,30/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,12,NA
+CA-03-016-CA,3,378018,3207028,19/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,43,NA
+CA-03-016-CA,3,378018,3207028,21/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,43,NA
+CA-03-016-CA,3,378018,3207028,22/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,43,NA
+CA-03-017-CA,3,378060,3207984,13/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,45,NA
+CA-03-017-CA,3,378060,3207984,15/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,45,NA
+CA-03-017-CA,3,378060,3207984,16/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,45,NA
+CA-03-017-CA,3,378060,3207984,21/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,45,NA
+CA-03-018-CA,3,377701,3208818,14/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,42,NA
+CA-03-018-CA,3,377701,3208818,16/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,42,NA
+CA-03-018-CA,3,377701,3208818,21/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,42,NA
+CA-03-018-CA,3,377701,3208818,26/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,42,NA
+CA-03-018-CA,3,377701,3208818,01/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,42,NA
+CA-03-019-CA,3,377368,3209599,13/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,47,se observa aparentemente preñada
+CA-03-019-CA,3,377368,3209599,07/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,47,NA
+CA-03-020-CA,3,376564,3210201,15/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,40,NA
+CA-03-020-CA,3,376564,3210201,26/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,40,NA
+CA-03-021-CA,3,375781,3210807,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,73,NA
+CA-04-022-CA,4,376083,3211390,30/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-023-CA,4,375750,3212148,15/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,34,NA
+CA-04-023-CA,4,375750,3212148,16/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,34,NA
+CA-04-023-CA,4,375750,3212148,30/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,34,NA
+CA-04-024-CA,4,375166,3212910,15/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,45,NA
+CA-04-025-CA,4,374874,3213653,15/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,Gato negro
+CA-04-025-CA,4,374874,3213653,18/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,Gata atigrada; embarazada
+CA-04-025-CA,4,374874,3213653,03/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-025-CA,4,374874,3213653,04/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-025-CA,4,374874,3213653,07/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-025-CA,4,374874,3213653,08/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-025-CA,4,374874,3213653,09/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-025-CA,4,374874,3213653,11/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,41,NA
+CA-04-026-CA,4,374282,3214159,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,17,NA
+CA-05-027-CA,5,373974,3215014,07/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,37,Hembra embarazada
+CA-05-028-CA,5,373891,3215997,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,76,NA
+CA-05-029-CA,5,373918,3216924,20/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-05-029-CA,5,373918,3216924,22/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-05-029-CA,5,373918,3216924,06/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-05-029-CA,5,373918,3216924,07/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-05-029-CA,5,373918,3216924,09/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,39,NA
+CA-05-030-CA,5,373151,3217342,18/Ago/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,38,NA
+CA-05-030-CA,5,373151,3217342,10/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,38,NA
+CA-06-031-CA,6,373212,3218239,11/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,35,Mama e hijos
+CA-06-032-CA,6,372543,3218939,09/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,38,NA
+CA-06-032-CA,6,372543,3218939,11/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,38,NA
+CA-06-033-CA,6,372149,3219771,10/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,72,NA
+CA-06-034-CA,6,371420,3220438,NA,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,32,NA
+CA-07-035-CA,7,370783,3221181,11/Sep/2020,12/Sep/2020,Camerino Reyes/Alejandro Romero,si,A,MF,35,NA
+CA-01-001-ED,1,373960,3196309,NA,12/Sep/2020,Alejandro Romero,si,A,MF,42,NA
+CA-01-002-EF,1,373993,3196320,NA,12/Sep/2020,Camerino Reyes,si,A,MF,31,NA
+CA-01-003-OD,1,373893,3196557,NA,12/Sep/2020,Alejandro Romero,si,A,MF,55,Dice PD pero es OD
+CA-01-004-OF,1,373942,3196581,NA,12/Sep/2020,Camerino Reyes,si,A,MF,32,NA
+CA-01-005-PF,1,373993,3196320,NA,12/Sep/2020,Camerino Reyes,si,A,MF,42,NA
+CA-01-006-PD,1,373960,3196309,NA,12/Sep/2020,Alejandro Romero,si,A,NF,58,No capto nada
+CT-01-011-AM,1,376550,3200038,NA,12/Sep/2020,Alejandro Romero,si,A,MF,57,Se le puso bateria
+CT-01-012-AM,1,377324,3200170,NA,12/Sep/2020,Alejandro Romero,si,A,MF,44,NA
+CT-01-014-NN,1,378217,3199988,NA,12/Sep/2020,Alejandro Romero,si,A,MF,15,NA
+CT-01-015-NN,1,378682,3199475,NA,12/Sep/2020,Alejandro Romero,si,A,MF,51,NA
+CT-01-019-JC,1,375861,3200724,NA,12/Sep/2020,Karla Sanchez,si,A,MF,38,NA
+CT-01-024-NN,1,374763,3200514,NA,12/Sep/2020,Karla Sanchez,si,A,MF,31,NA
+CT-01-023-NN,1,374709,3200062,NA,12/Sep/2020,Karla Sanchez,si,A,NF,43,error de lectura en SD
+CT-01-022-NN,1,375679,3200264,NA,12/Sep/2020,Karla Sanchez,si,A,MF,30,NA
+CT-01-008-VA,1,375020,3199056,NA,12/Sep/2020,Karla Sanchez,si,A,MF,49,NA
+CT-01-007-AG,1,379877,3199693,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,38,NA
+CT-01-013-AG,1,379742,3200171,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,42,NA
+CT-01-018-CA,1,379058,3200544,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,46,NA
+CT-01-021-JC,1,378111,3200749,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,39,NA
+CT-01-001-CF,1,376596,3199112,NA,12/Sep/2020,Camerino Reyes,si,A,MF,32,NA
+CT-01-002-CF,1,377371,3198915,NA,12/Sep/2020,Camerino Reyes,si,A,MF,41,NA
+CT-01-005-AL,1,377921,3198375,NA,12/Sep/2020,Camerino Reyes,si,A,MF,53,NA
+CT-01-004-AL,1,378596,3197903,NA,12/Sep/2020,Camerino Reyes,si,A,MF,33,NA
+CT-01-020-JC,1,377078,3200735,NA,12/Sep/2020,Karem Ramirez,si,A,MF,37,NA
+CT-01-025-JC,1,377074,3201294,NA,12/Sep/2020,Karem Ramirez,si,A,MF,40,NA
+CT-01-026-JC,1,378014,3201218,NA,12/Sep/2020,Karem Ramirez,si,A,MF,52,NA
+CT-01-027-JC,1,379096,3201327,NA,12/Sep/2020,Karem Ramirez,si,A,MF,39,NA
+CT-04-001-AL,4,373281,3210244,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,42,NA
+CT-04-002-AL,4,373240,3210507,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,32,NA
+CT-04-003-AL,4,373477,3210456,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,26,NA
+CT-04-053-AA,4,372921,3206158,NA,12/Sep/2020,Karla Sanchez,si,A,MF,39,NA
+CT-04-054-AA,4,372922,3206666,05/Sep/2020,12/Sep/2020,Karla Sanchez,si,A,MF,40,NA
+CT-04-055-AA,4,373045,3207179,02/Sep/2020,12/Sep/2020,Karla Sanchez,si,A,MF,40,NA
+CT-04-055-AA,4,373045,3207179,08/Sep/2020,12/Sep/2020,Karla Sanchez,si,A,MF,40,NA
+CT-04-007-AA,4,373023,3207715,NA,12/Sep/2020,Karla Sanchez,si,A,MF,70,NA
+CT-04-008-CE,4,373113,3208032,04/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,40,NA
+CT-04-009-CE,4,373066,3208475,04/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,30,NA
+CT-04-010-CE,4,373411,3208601,15/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,16/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,22/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,25/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,27/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,01/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,05/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-010-CE,4,373411,3208601,08/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,35,NA
+CT-04-011-NN,4,373814,3208705,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,55,NA
+CT-04-012-NN,4,373559,3209125,16/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,17/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,21/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,23/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,24/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,25/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,27/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,28/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,30/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,31/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-012-NN,4,373559,3209125,01/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,34,NA
+CT-04-013-NN,4,373981,3209120,15/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,16/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,21/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,24/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,25/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,27/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,28/Ago/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,68,NA
+CT-04-013-NN,4,373981,3209120,NA,12/Sep/2020,Miguel Vazquez,si,A,MF,68,Se movio la fecha y hora
+CT-04-014-JC,4,374278,3209523,06/Sep/2020,12/Sep/2020,Miguel Vazquez,si,A,MF,79,NA
+CT-04-015-JC,4,374645,3209892,14/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,15/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,16/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,18/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,20/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,27/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,31/Ago/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,04/Sep/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,05/Sep/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,07/Sep/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CT-04-015-JC,4,374645,3209892,08/Sep/2020,12/Sep/2020,Karem Ramirez,si,A,MF,42,NA
+CA-01-001-CA,1,375311,3196733,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,37,NA
+CA-01-002-CA,1,375555,3197590,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,39,NA
+CA-01-003-CA,1,375638,3198565,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,37,NA
+CA-01-004-CA,1,376077,3199390,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,8,NA
+CA-01-005-CA,1,376045,3200225,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,41,NA
+CA-01-006-CA,1,375236,3200753,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,40,NA
+CA-02-007-CA,2,375491,3201613,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,35,NA
+CA-02-008-CA,2,375937,3202460,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,24,NA
+CA-02-009-CA,2,376503,3203157,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,43,NA
+CA-02-010-CA,2,376552,3203709,NA,11/Oct/2020,Karem Ramirez,si,A,MF,47,Fecha incorrecta 24/Ene/2017
+CA-03-011-CA,3,376105,3204567,NA,11/Oct/2020,Karem Ramirez,si,A,MF,43,NA
+CA-03-012-CA,3,376679,3204890,25/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,76,NA
+CA-03-013-CA,3,377030,3205568,25/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,41,NA
+CA-03-014-CA,3,377553,3206074,15/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,46,NA
+CA-03-014-CA,3,377553,3206074,19/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,46,NA
+CA-03-014-CA,3,377553,3206074,27/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,46,NA
+CA-03-014-CA,3,377553,3206074,05/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,46,NA
+CA-03-014-CA,3,377553,3206074,07/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,46,NA
+CA-03-015-CA,3,378092,3206226,18/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-03-015-CA,3,378092,3206226,03/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-03-015-CA,3,378092,3206226,04/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-03-015-CA,3,378092,3206226,07/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-03-016-CA,3,378018,3207028,13/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-016-CA,3,378018,3207028,16/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-016-CA,3,378018,3207028,17/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-016-CA,3,378018,3207028,19/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-016-CA,3,378018,3207028,23/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-016-CA,3,378018,3207028,05/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-017-CA,3,378060,3207984,13/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,43,NA
+CA-03-017-CA,3,378060,3207984,16/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,43,NA
+CA-03-017-CA,3,378060,3207984,17/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,43,NA
+CA-03-017-CA,3,378060,3207984,05/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,43,NA
+CA-03-018-CA,3,377701,3208818,16/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-018-CA,3,377701,3208818,25/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-018-CA,3,377701,3208818,29/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-018-CA,3,377701,3208818,04/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-019-CA,3,377368,3209599,NA,11/Oct/2020,Karem Ramirez,si,A,MF,45,NA
+CA-03-020-CA,3,376564,3210201,19/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,25,NA
+CA-03-021-CA,3,375781,3210807,22/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,50,NA
+CA-04-022-CA,4,376083,3211390,01/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,40,NA
+CA-04-022-CA,4,376083,3211390,06/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,40,NA
+CA-04-023-CA,4,375750,3212148,NA,11/Oct/2020,Karem Ramirez,si,A,MF,32,NA
+CA-04-024-CA,4,375166,3212910,15/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-04-024-CA,4,375166,3212910,24/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-04-024-CA,4,375166,3212910,25/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-04-024-CA,4,375166,3212910,27/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-04-024-CA,4,375166,3212910,08/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-04-025-CA,4,374874,3213653,13/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,15/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,16/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,17/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,18/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,20/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,24/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,26/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,01/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,04/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-025-CA,4,374874,3213653,08/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-04-026-CA,4,374282,3214159,NA,11/Oct/2020,Karem Ramirez,si,A,MF,9,NA
+CA-05-027-CA,5,373974,3215014,NA,11/Oct/2020,Karem Ramirez,si,A,MF,34,NA
+CA-05-028-CA,5,373891,3215997,NA,11/Oct/2020,Karem Ramirez,si,A,MF,57,NA
+CA-05-029-CA,5,373918,3216924,19/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,38,NA
+CA-05-029-CA,5,373918,3216924,06/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,38,NA
+CA-05-030-CA,5,373151,3217342,NA,11/Oct/2020,Karem Ramirez,si,A,MF,37,NA
+CA-06-031-CA,6,373212,3218239,25/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-06-031-CA,6,373212,3218239,28/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-06-031-CA,6,373212,3218239,01/Oct/2020,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CA-06-032-CA,6,372543,3218939,NA,11/Oct/2020,Karem Ramirez,si,A,MF,29,NA
+CA-06-033-CA,6,372149,3219771,NA,11/Oct/2020,Karem Ramirez,si,A,MF,49,fecha incorrecta 01/Abr/2017
+CA-06-034-CA,6,371420,3220438,NA,11/Oct/2020,Karem Ramirez,si,A,MF,39,NA
+CA-07-035-CA,7,370783,3221181,25/Sep/2020,11/Oct/2020,Karem Ramirez,si,A,MF,43,NA
+CA-01-001-ED,1,373960,3196309,NA,11/Oct/2020,Karem Ramirez,si,A,MF,38,NA
+CA-01-002-EF,1,373993,3196320,NA,11/Oct/2020,Karem Ramirez,si,A,MF,25,NA
+CA-01-003-OD,1,373893,3196557,NA,11/Oct/2020,Karem Ramirez,si,A,MF,52,NA
+CA-01-004-OF,1,373942,3196581,NA,11/Oct/2020,Karem Ramirez,si,A,MF,57,NA
+CA-01-005-PF,1,373993,3196320,NA,11/Oct/2020,Karem Ramirez,si,A,MF,42,NA
+CA-01-006-PD,1,373960,3196309,NA,11/Oct/2020,Karem Ramirez,si,A,MF,45,NA
+CT-03-002-KR,3,377401,3207521,NA,11/Oct/2020,Francisco Duarte,si,A,MF,39,no se encuentre en mapsource
+CT-01-007-AG,1,379877,3199693,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,40,NA
+CT-01-013-AG,1,379742,3200171,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,41,NA
+CT-01-001-CF,1,376596,3199112,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,54,NA
+CT-01-002-CF,1,377371,3198915,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,36,NA
+CT-01-004-AL,1,378596,3197903,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,43,NA
+CT-01-005-AL,1,377921,3198375,NA,11/Oct/2020,Jessica Vazquez,si,A,NF,41,Mal colocada la SD
+CT-01-008-VA,1,375020,3199056,NA,11/Oct/2020,Karla Sanchez,si,A,MF,45,NA
+CT-01-011-AM,1,376550,3200038,NA,11/Oct/2020,Yureli Garibay,si,A,MF,49,NA
+CT-01-012-AM,1,377324,3200170,NA,11/Oct/2020,Yureli Garibay,si,A,MF,43,NA
+CT-01-014-NN,1,378217,3199988,NA,11/Oct/2020,Yureli Garibay,si,A,MF,19,NA
+CT-01-015-NN,1,378682,3199475,NA,11/Oct/2020,Yureli Garibay,si,A,MF,39,NA
+CT-01-018-CA,1,379058,3200544,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CT-01-019-JC,1,375861,3200724,NA,11/Oct/2020,Karla Sanchez,si,A,MF,43,NA
+CT-01-020-JC,1,377078,3200735,NA,11/Oct/2020,Karem Ramirez,si,A,MF,23,NA
+CT-01-021-JC,1,378111,3200749,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,36,NA
+CT-01-022-NN,1,375679,3200264,NA,11/Oct/2020,Karla Sanchez,si,A,MF,34,fecha incorrecta. 24/Mar/2017
+CT-01-023-NN,1,374709,3200062,NA,11/Oct/2020,Karla Sanchez,si,A,NF,43,NA
+CT-01-024-NN,1,374763,3200514,NA,11/Oct/2020,Karla Sanchez,si,A,MF,NA,se quito; no encendia
+CT-01-025-JC,1,377074,3201294,NA,11/Oct/2020,Karem Ramirez,si,A,MF,33,NA
+CT-01-026-JC,1,378014,3201218,NA,11/Oct/2020,Karem Ramirez,si,A,MF,49,NA
+CT-01-027-JC,1,379096,3201327,NA,11/Oct/2020,Karem Ramirez,si,A,MF,38,NA
+CT-02-001-JC,2,377254,3202696,NA,11/Oct/2020,NA,si,A,MF,NA,No fue encontrada
+CT-02-002-JC,2,378188,3202157,NA,11/Oct/2020,Cristian Flores,si,A,MF,40,NA
+CT-02-003-JC,2,379173,3202418,NA,11/Oct/2020,Cristian Flores,si,A,MF,42,NA
+CT-02-004-JC,2,378463,3202889,NA,11/Oct/2020,Cristian Flores,si,A,MF,38,NA
+CT-02-005-VA,2,374969,3203245,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,45,NA
+CT-02-006-VA,2,374693,3203785,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,34,NA
+CT-02-007-VA,2,374838,3204477,01/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,56,NA
+CT-02-007-VA,2,374838,3204477,16/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,56,NA
+CT-02-008-VA,2,375249,3204456,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,34,Ano incorrecto; 09/Sep/2019
+CT-02-009-AM,2,377566,3203890,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,29,NA
+CT-02-010-AM,2,378239,3203805,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,32,NA
+CT-02-011-AM,2,378858,3203735,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,40,NA
+CT-02-012-AL,2,379389,3203796,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,38,NA
+CT-02-013-AL,2,379977,3203821,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,46,Fecha incorrecta 29/Sep/2017
+CT-02-014-AL,2,380536,3203863,NA,11/Oct/2020,Jessica Vazquez,si,A,MF,35,Fecha incorrecta 25/Sep/2017
+CT-02-015-MA,2,380028,3204514,NA,11/Oct/2020,Cristian Flores,si,A,MF,28,Fecha y hora incorrecta 23/Ene/2017
+CT-02-016-AM,2,379896,3205021,NA,11/Oct/2020,Cristian Flores,si,A,MF,32,correccion de fec ha
+CT-02-017-CA,2,379539,3204881,NA,11/Oct/2020,Cristian Flores,si,A,MF,34,correccion de fec ha
+CT-02-019-CA,2,378530,3204639,NA,11/Oct/2020,Yureli Garibay,si,A,MF,7,NA
+CT-02-020-CA,2,377740,3204683,NA,11/Oct/2020,Yureli Garibay,si,A,NF,NA,SE QUEDO siN BATERIA Y SD
+CT-02-021-CA,2,379099,3205023,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,15,NA
+CT-02-022-CA,2,378081,3205105,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,34,NA
+CT-02-079-MD,2,377593,3205001,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,76,NA
+CT-03-022-KR,3,378654,3207757,10/Jul/2020,11/Oct/2020,Francisco Duarte,si,A,MF,30,NA
+CT-03-023-KR,3,379264,3207681,10/Ago/2020,11/Oct/2020,Francisco Duarte,si,A,MF,59,NA
+CT-03-023-KR,3,379264,3207681,21/Ago/2020,11/Oct/2020,Francisco Duarte,si,A,MF,59,NA
+CT-03-025-EM,3,377926,3208284,NA,11/Oct/2020,NA,si,A,NA,NA,NA
+CT-03-026-EM,3,378571,3208469,16/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,46,NA
+CT-03-026-EM,3,378571,3208469,02/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,46,NA
+CT-03-027-EM,3,379124,3208464,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,34,Error de SD
+CT-03-028-EM,3,379636,3208617,29/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,19/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,30/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,14/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,18/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,26/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,02/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,03/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-028-EM,3,379636,3208617,11/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-029-JV,3,376457,3207349,22/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,25/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,09/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,16/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,20/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,08/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,21/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,23/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,06/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,09/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,11/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,19/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,20/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,21/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,25/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-029-JV,3,376457,3207349,28/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-030-JV,3,376637,3207298,16/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,76,NA
+CT-03-030-JV,3,376637,3207298,22/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,76,NA
+CT-03-031-JV,3,376761,3207090,NA,11/Oct/2020,Karla Sanchez,si,A,MF,54,NA
+CT-03-032-JV,3,376971,3206983,26/Abr/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,Se repite nombre de camara
+CT-03-032-JV,3,376971,3206983,21/Jun/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-032-JV,3,376971,3206983,12/Ago/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-032-JV,3,376971,3206983,31/Ago/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-032-JV,3,376971,3206983,01/Sep/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-032-JV,3,376971,3206983,18/Sep/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-032-JV,3,376971,3206983,06/Oct/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-032-JV,3,376971,3206983,08/Oct/2020,11/Oct/2020,Karla Sanchez,si,A,MF,61,NA
+CT-03-033-JV,3,377119,3206932,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,56,NA
+CT-03-034-AR,3,376562,3208148,14/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,50,NA
+CT-03-034-AR,3,376562,3208148,17/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,50,NA
+CT-03-034-AR,3,376562,3208148,07/Oct/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,50,NA
+CT-03-035-AR,3,376778,3208127,18/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-035-AR,3,376778,3208127,11/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-035-AR,3,376778,3208127,17/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-035-AR,3,376778,3208127,31/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-036-AR,3,376968,3208027,07/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,99,NA
+CT-03-036-AR,3,376968,3208027,18/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,99,NA
+CT-03-036-AR,3,376968,3208027,23/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,99,NA
+CT-03-036-AR,3,376968,3208027,10/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,99,NA
+CT-03-036-AR,3,376968,3208027,18/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,99,NA
+CT-03-037-AR,3,377114,3207851,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,100,NA
+CT-03-038-AR,3,377394,3207807,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,64,NA
+CT-03-039-AR,3,377446,3207648,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,67,NA
+CT-03-040-KR,3,376561,3207726,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,66,NA
+CT-03-041-KR,3,376791,3207687,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,65,NA
+CT-03-042-KR,3,377018,3207694,17/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,68,NA
+CT-03-042-KR,3,377018,3207694,23/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,68,NA
+CT-03-043-KR,3,377247,3207576,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,100,NA
+CT-03-044-KR,3,377401,3207521,NA,11/Oct/2020,NA,si,A,NF,NA,no encontrada en campo
+CT-03-001-MD,3,376945,3205027,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,33,NA
+CT-03-002-FM,3,378549,3205651,28/Abr/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,22/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,24/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,25/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,26/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,30/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,10/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,18/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-003-FM,3,379011,3205923,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CT-03-004-FM,3,379380,3205916,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,63,NA
+CT-03-005-FM,3,379904,3205855,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,56,NA
+CT-03-006-NN,3,380182,3205976,NA,11/Oct/2020,NA,si,A,NF,NA,No esta en campo
+CT-03-007-NN,3,380000,3205634,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,100,Hora y fecha mal. 18/Jun/2018 09:26
+CT-03-008-MD,3,377514,3205677,NA,11/Oct/2020,Jose Cortez,si,A,MF,60,NA
+CT-03-009-MD,3,375971,3205982,NA,11/Oct/2020,Jose Cortez,si,A,MF,NA,NA
+CT-03-010-AM,3,378331,3206568,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,57,NA
+CT-03-011-AM,3,378784,3206502,02/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,06/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,19/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,27/Jun/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,08/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,11/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,15/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,23/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,27/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,30/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,01/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,09/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,10/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,11/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,12/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,14/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,16/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,23/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,09/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,12/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,14/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,17/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,23/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-011-AM,3,378784,3206502,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,61,NA
+CT-03-012-AM,3,379112,3206595,NA,11/Oct/2020,Karla Sanchez,si,A,MF,26,NA
+CT-03-013-AM,3,379438,3206593,NA,11/Oct/2020,Karla Sanchez,si,A,MF,51,NA
+CT-03-014-AM,3,379653,3206547,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,50,Mal ubicada
+CT-03-015-NN,3,380199,3206397,NA,11/Oct/2020,NA,si,A,NA,NA,NA
+CT-03-016-AR,3,378636,3207266,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,34,NA
+CT-03-017-AR,3,379072,3207296,03/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,54,NA
+CT-03-018-AR,3,379506,3207205,23/Abr/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,32,NA
+CT-03-018-AR,3,379506,3207205,21/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,32,NA
+CT-03-019-AR,3,380009,3207168,01/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,67,NA
+CT-03-019-AR,3,380009,3207168,03/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,67,NA
+CT-03-019-AR,3,380009,3207168,03/Jul/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,67,NA
+CT-03-098-NN,3,380084,3206952,18/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,24,NA
+CT-03-098-NN,3,380084,3206952,13/Sep/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,24,NA
+CT-03-098-NN,3,380084,3206952,01/Oct/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,24,NA
+CT-03-098-NN,3,380084,3206952,05/Oct/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,24,NA
+CT-03-098-NN,3,380084,3206952,06/Oct/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,24,NA
+CT-03-021-KR,3,378286,3207725,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-03-002-FM,3,378549,3205651,14/Ago/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CT-04-001-AL,4,373281,3210244,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,43,NA
+CT-04-002-AL,4,373240,3210507,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,38,NA
+CT-04-003-AL,4,373477,3210456,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,25,NA
+CT-04-053-AA,4,372921,3206158,NA,11/Oct/2020,Francisco Duarte,si,A,MF,52,NA
+CT-04-054-AA,4,372922,3206666,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,42,NA
+CT-04-055-AA,4,373045,3207179,NA,11/Oct/2020,Francisco Duarte,si,A,MF,30,NA
+CT-04-007-AA,4,373023,3207715,14/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,52,NA
+CT-04-007-AA,4,373023,3207715,20/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,52,NA
+CT-04-007-AA,4,373023,3207715,23/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,52,NA
+CT-04-008-CE,4,373113,3208032,11/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,41,NA
+CT-04-008-CE,4,373113,3208032,16/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,41,NA
+CT-04-009-CE,4,373066,3208475,17/Sep/2020,11/Oct/2020,Luis Martinez,si,A,MF,22,NA
+CT-04-009-CE,4,373066,3208475,23/Sep/2020,11/Oct/2020,Luis Martinez,si,A,MF,22,NA
+CT-04-009-CE,4,373066,3208475,25/Sep/2020,11/Oct/2020,Luis Martinez,si,A,MF,22,NA
+CT-04-010-CE,4,373411,3208601,16/Sep/2020,11/Oct/2020,Francisco Duarte,si,A,MF,33,NA
+CT-04-010-CE,4,373411,3208601,19/Sep/2020,11/Oct/2020,Francisco Duarte,si,A,MF,33,NA
+CT-04-010-CE,4,373411,3208601,24/Sep/2020,11/Oct/2020,Francisco Duarte,si,A,MF,33,NA
+CT-04-011-NN,4,373814,3208705,NA,11/Oct/2020,Luis Martinez,si,A,MF,49,NA
+CT-04-012-NN,4,373559,3209125,28/Sep/2020,11/Oct/2020,Luis Martinez,si,A,MF,32,NA
+CT-04-012-NN,4,373559,3209125,29/Sep/2020,11/Oct/2020,Luis Martinez,si,A,MF,32,NA
+CT-04-012-NN,4,373559,3209125,05/Oct/2020,11/Oct/2020,Luis Martinez,si,A,MF,32,NA
+CT-04-013-NN,4,373981,3209120,09/Ene/2020,11/Oct/2020,Luis Martinez,si,A,MF,42,La fecha y la hora estaban erroneas
+CT-04-013-NN,4,373981,3209120,11/Ene/2020,11/Oct/2020,Luis Martinez,si,A,MF,42,la fecha esta erronea
+CT-04-014-JC,4,374278,3209523,12/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,se encontraba apagada
+CT-04-014-JC,4,374278,3209523,13/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,NA
+CT-04-014-JC,4,374278,3209523,15/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,NA
+CT-04-014-JC,4,374278,3209523,20/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,NA
+CT-04-014-JC,4,374278,3209523,23/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,NA
+CT-04-014-JC,4,374278,3209523,30/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,NA
+CT-04-014-JC,4,374278,3209523,05/Oct/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,57,NA
+CT-04-015-JC,4,374645,3209892,NA,11/Oct/2020,Jose cortez,si,A,MF,53,NA
+CT-04-016-JC,4,374979,3210366,NA,11/Oct/2020,Jose cortez,si,A,MF,30,NA
+CT-04-017-AA,4,373185,3206582,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,32,NA
+CT-04-018-AA,4,373399,3206702,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,38,NA
+CT-04-019-AA,4,373468,3207009,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,44,NA
+CT-04-020-NN,4,373931,3207763,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,53,NA
+CT-04-021-NN,4,373838,3207516,05/Sep/2020,11/Oct/2020,Miguel Vazquez,si,A,MF,43,NA
+CT-04-022-NN,4,373685,3207269,NA,11/Oct/2020,Miguel Vazquez,si,A,MF,42,NA
+CT-04-023-JC,4,372321,3206638,NA,11/Oct/2020,Jose cortez,si,A,MF,42,NA
+CT-04-024-JC,4,372431,3206717,NA,11/Oct/2020,Jose cortez,si,A,MF,25,NA
+CT-04-025-JC,4,372634,3206907,10/Sep/2020,11/Oct/2020,Jose cortez,si,A,MF,60,NA
+CT-04-025-JC,4,372634,3206907,15/Sep/2020,11/Oct/2020,Jose cortez,si,A,MF,60,NA
+CT-04-026-CE,4,373787,3206035,17/Sep/2020,11/Oct/2020,Francisco Duarte,si,A,MF,40,NA
+CT-04-027-CE,4,373992,3206557,NA,11/Oct/2020,Francisco Duarte,si,A,MF,59,NA
+CT-04-028-CE,4,374103,3206292,NA,11/Oct/2020,Francisco Duarte,si,A,MF,30,NA
+CT-01-007-AG,1,379877,3199693,NA,01/Nov/2020,Mario Hernandez,si,A,MF,39,NA
+CT-01-013-AG,1,379742,3200171,NA,01/Nov/2020,Mario Hernandez,si,A,MF,38,NA
+CT-01-001-CF,1,376596,3199112,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,47,NA
+CT-01-002-CF,1,377371,3198915,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,34,NA
+CT-01-004-AL,1,378596,3197903,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,42,NA
+CT-01-005-AL,1,377921,3198375,NA,01/Nov/2020,Jessica Vazquez,si,A,NF,35,NA
+CT-01-008-VA,1,375020,3199056,NA,01/Nov/2020,NA,si,A,MF,NA,NA
+CT-01-011-AM,1,376550,3200038,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,49,NA
+CT-01-012-AM,1,377324,3200170,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,42,NA
+CT-01-014-NN,1,378217,3199988,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,46,NA
+CT-01-015-NN,1,378682,3199475,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,40,NA
+CT-01-018-CA,1,379058,3200544,NA,01/Nov/2020,Mario Hernandez,si,A,MF,39,NA
+CT-01-019-JC,1,375861,3200724,NA,01/Nov/2020,Abigail Vera,si,A,MF,40,NA
+CT-01-020-JC,1,377078,3200735,NA,01/Nov/2020,Karem Ramirez,si,A,MF,31,NA
+CT-01-021-JC,1,378111,3200749,NA,01/Nov/2020,Mario Hernandez,si,A,MF,36,NA
+CT-01-022-NN,1,375679,3200264,NA,01/Nov/2020,Abigail Vera,si,A,MF,37,NA
+CT-01-023-NN,1,374709,3200062,NA,01/Nov/2020,Abigail Vera,si,A,NF,41,NA
+CT-01-024-NN,1,374763,3200514,NA,01/Nov/2020,Abigail Vera,si,A,MF,NA,No había cámara
+CT-01-025-JC,1,377074,3201294,NA,01/Nov/2020,Karem Ramirez,si,A,MF,37,NA
+CT-01-026-JC,1,378014,3201218,NA,01/Nov/2020,Karem Ramirez,si,A,MF,47,NA
+CT-01-027-JC,1,379096,3201327,NA,01/Nov/2020,Karem Ramirez,si,A,MF,37,Error de SD
+CT-02-023-NN,2,374462,3202868,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,38,NA
+CT-02-024-NN,2,374947,3202206,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,41,NA
+CT-02-001-JC,2,377254,3202696,NA,01/Nov/2020,Emmanuel Mendoza,si,A,NA,NA,No fue encontrada
+CT-02-002-JC,2,378188,3202157,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CT-02-003-JC,2,379173,3202418,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,40,NA
+CT-02-004-JC,2,378463,3202889,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,32,NA
+CT-02-005-VA,2,374969,3203245,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,41,NA
+CT-02-006-VA,2,374693,3203785,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,36,NA
+CT-02-007-VA,2,374838,3204477,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,34,NA
+CT-02-008-VA,2,375249,3204456,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,39,NA
+CT-02-009-AM,2,377566,3203890,NA,01/Nov/2020,Mario Hernandez,si,A,MF,30,NA
+CT-02-010-AM,2,378239,3203805,NA,01/Nov/2020,Mario Hernandez,si,A,MF,4,NA
+CT-02-011-AM,2,378858,3203735,NA,01/Nov/2020,Mario Hernandez,si,A,MF,38,NA
+CT-02-012-AL,2,379389,3203796,NA,01/Nov/2020,Mario Hernandez,si,A,MF,41,NA
+CT-02-013-AL,2,379977,3203821,NA,01/Nov/2020,Mario Hernandez,si,A,MF,43,Fecha incorrecta 29/Sep/2017
+CT-02-014-AL,2,380536,3203863,NA,01/Nov/2020,Mario Hernandez,si,A,MF,38,10/10/20
+CT-02-015-MA,2,380028,3204514,NA,01/Nov/2020,Abigail Vera,si,A,MF,26,NA
+CT-02-016-AM,2,379896,3205021,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,4,NA
+CT-02-017-CA,2,379539,3204881,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CT-02-018-CA,2,379372,3204631,NA,01/Nov/2020,Abigail Vera,si,A,MF,26,NA
+CT-02-019-CA,2,378530,3204639,NA,01/Nov/2020,Abigail Vera,si,A,MF,46,NA
+CT-02-020-CA,2,377740,3204683,NA,01/Nov/2020,Abigail Vera,si,A,NF,NA,No había cámara
+CT-02-021-CA,2,379099,3205023,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,NA,sin bateria y sin fotos
+CT-02-022-CA,2,378081,3205105,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,NA,sin bateria y sin fotos
+CT-02-079-MD,2,377593,3205001,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,69,NA
+CT-03-022-KR,3,378654,3207757,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,21,Mal ubicada
+CT-03-023-KR,3,379264,3207681,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,47,Mal ubicada
+CT-03-024-EM,3,377497,3208086,NA,01/Nov/2020,Mario Hernandez,si,A,MF,30,NA
+CT-03-025-EM,3,377926,3208284,NA,01/Nov/2020,Mario Hernandez,si,A,NA,NA,no se encuentra en sitio
+CT-03-026-EM,3,378571,3208469,NA,01/Nov/2020,Mario Hernandez,si,A,MF,33,NA
+CT-03-027-EM,3,379124,3208464,NA,01/Nov/2020,Mario Hernandez,si,A,MF,8,apagada
+CT-03-028-EM,3,379636,3208617,NA,01/Nov/2020,Mario Hernandez,si,A,MF,52,NA
+CT-03-029-JV,3,376457,3207349,01/Ene/2018,01/Nov/2020,Jessica Vazquez,si,A,MF,68,La fecha y la hora estaban erroneas
+CT-03-030-JV,3,376637,3207298,09/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,69,NA
+CT-03-031-JV,3,376761,3207090,10/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CT-03-032-JV,3,376971,3206983,28/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,58,NA
+CT-03-032-JV,3,376971,3206983,27/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,58,NA
+CT-03-032-JV,3,376971,3206983,16/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,58,NA
+CT-03-033-JV,3,377119,3206932,30/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,65,NA
+CT-03-034-AR,3,376562,3208148,20/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,40,NA
+CT-03-034-AR,3,376562,3208148,22/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,40,NA
+CT-03-034-AR,3,376562,3208148,23/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,40,NA
+CT-03-035-AR,3,376778,3208127,18/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,45,NA
+CT-03-035-AR,3,376778,3208127,20/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,45,NA
+CT-03-036-AR,3,376968,3208027,10/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,17/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,18/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,19/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,28/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,95,NA
+CT-03-038-AR,3,377394,3207807,NA,01/Nov/2020,Abigail Vera,si,A,MF,53,NA
+CT-03-039-AR,3,377446,3207648,NA,01/Nov/2020,Abigail Vera,si,A,MF,61,NA
+CT-03-040-KR,3,376561,3207726,25/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,59,NA
+CT-03-040-KR,3,376561,3207726,26/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,59,NA
+CT-03-041-KR,3,376791,3207687,NA,01/Nov/2020,Karem Ramirez,si,A,MF,61,NA
+CT-03-042-KR,3,377018,3207694,NA,01/Nov/2020,Karem Ramirez,si,A,MF,69,NA
+CT-03-043-KR,3,377247,3207576,09/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,92,NA
+CT-03-043-KR,3,377247,3207576,20/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,92,NA
+CT-03-044-KR,3,377401,3207521,NA,01/Nov/2020,Karem Ramirez,si,A,NF,55,NA
+CT-03-001-MD,3,376945,3205027,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,35,NA
+CT-03-002-FM,3,378549,3205651,13/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,41,NA
+CT-03-002-FM,3,378549,3205651,19/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,41,NA
+CT-03-002-FM,3,378549,3205651,23/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,41,NA
+CT-03-003-FM,3,379011,3205923,NA,01/Nov/2020,Karem Ramirez,si,A,MF,56,NA
+CT-03-004-FM,3,379380,3205916,NA,01/Nov/2020,Karem Ramirez,si,A,MF,60,NA
+CT-03-005-FM,3,379904,3205855,NA,01/Nov/2020,Karem Ramirez,si,A,MF,54,NA
+CT-03-008-MD,3,377514,3205677,NA,01/Nov/2020,NA,si,A,MF,NA,NA
+CT-03-009-MD,3,375971,3205982,NA,01/Nov/2020,NA,si,A,MF,NA,NA
+CT-03-010-AM,3,378331,3206568,25/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,50,Solo se observa la oreja
+CT-03-011-AM,3,378784,3206502,27/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,57,NA
+CT-03-012-AM,3,379112,3206595,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,13,NA
+CT-03-013-AM,3,379438,3206593,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,48,NA
+CT-03-014-AM,3,379653,3206547,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,56,NA
+CT-03-015-NN,3,380199,3206397,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,63,NA
+CT-03-016-AR,3,378636,3207266,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,NA,No se encontro
+CT-03-017-AR,3,379072,3207296,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,47,NA
+CT-03-018-AR,3,379506,3207205,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,56,NA
+CT-03-019-AR,3,380009,3207168,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,48,NA
+CT-03-098-NN,3,380084,3206952,13/Oct/2020,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,40,Gris atigrado
+CT-03-021-KR,3,378286,3207725,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,38,Mal ubicada
+CT-04-001-AL,4,373281,3210244,NA,01/Nov/2020,Francisco Duarte,si,A,MF,39,NA
+CT-04-002-AL,4,373240,3210507,NA,01/Nov/2020,Francisco Duarte,si,A,MF,60,NA
+CT-04-003-AL,4,373477,3210456,NA,01/Nov/2020,Francisco Duarte,si,A,MF,42,NA
+CT-04-053-AA,4,372921,3206158,26/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,38,NA
+CT-04-054-AA,4,372922,3206666,21/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,38,NA
+CT-04-055-AA,4,373045,3207179,NA,01/Nov/2020,Luis Martinez,si,A,MF,41,NA
+CT-04-007-AA,4,373023,3207715,13/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,49,NA
+CT-04-007-AA,4,373023,3207715,22/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,49,NA
+CT-04-008-CE,4,373113,3208032,NA,01/Nov/2020,Luis Martinez,si,A,MF,49,NA
+CT-04-009-CE,4,373066,3208475,NA,01/Nov/2020,Luis Martinez,si,A,MF,29,NA
+CT-04-010-CE,4,373411,3208601,NA,01/Nov/2020,Luis Martinez,si,A,MF,33,NA
+CT-04-011-NN,4,373814,3208705,NA,01/Nov/2020,Luis Martinez,si,A,MF,49,NA
+CT-04-012-NN,4,373559,3209125,08/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,20,NA
+CT-04-012-NN,4,373559,3209125,17/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,20,NA
+CT-04-013-NN,4,373981,3209120,27/Ene/2017,01/Nov/2020,Francisco Duarte,si,A,MF,33,La fecha y hora estan mal
+CT-04-013-NN,4,373981,3209120,02/Feb/2017,01/Nov/2020,Francisco Duarte,si,A,MF,33,La fecha y hora estan mal
+CT-04-013-NN,4,373981,3209120,04/Feb/2017,01/Nov/2020,Francisco Duarte,si,A,MF,33,La fecha y hora estan mal
+CT-04-013-NN,4,373981,3209120,08/Feb/2017,01/Nov/2020,Francisco Duarte,si,A,MF,33,La fecha y hora estan mal
+CT-04-063-NN,4,374278,3209523,17/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,50,NA
+CT-04-063-NN,4,374278,3209523,18/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,50,NA
+CT-04-063-NN,4,374278,3209523,21/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,50,NA
+CT-04-063-NN,4,374278,3209523,25/Oct/2020,01/Nov/2020,Luis Martinez,si,A,MF,50,NA
+CT-04-015-JC,4,374645,3209892,NA,01/Nov/2020,Luis Martinez,si,A,MF,35,Estaba apagada
+CT-04-016-JC,4,374979,3210366,NA,01/Nov/2020,Francisco Duarte,si,A,MF,30,NA
+CT-04-017-AA,4,373185,3206582,NA,01/Nov/2020,Luis Martinez,si,A,MF,45,No tenia SD
+CT-04-018-AA,4,373399,3206702,04/Oct/2020,01/Nov/2020,Salvador Figueroa,si,A,MF,30,NA
+CT-04-018-AA,4,373399,3206702,13/Oct/2020,01/Nov/2020,Salvador Figueroa,si,A,MF,30,NA
+CT-04-018-AA,4,373399,3206702,20/Oct/2020,01/Nov/2020,Salvador Figueroa,si,A,MF,30,NA
+CT-04-019-AA,4,373468,3207009,NA,01/Nov/2020,Salvador Figueroa,si,A,MF,38,NA
+CT-04-020-NN,4,373931,3207763,09/Oct/2020,01/Nov/2020,Salvador Figueroa,si,A,MF,48,NA
+CT-04-020-NN,4,373931,3207763,21/Oct/2020,01/Nov/2020,Salvador Figueroa,si,A,MF,48,NA
+CT-04-020-NN,4,373931,3207763,22/Oct/2020,01/Nov/2020,Salvador Figueroa,si,A,MF,48,NA
+CT-04-021-NN,4,373838,3207516,NA,01/Nov/2020,Salvador Figueroa,si,A,MF,44,NA
+CT-04-022-NN,4,373685,3207269,NA,01/Nov/2020,Luis Martinez,si,A,MF,40,NA
+CT-04-023-JC,4,372321,3206638,NA,01/Nov/2020,Salvador Figueroa,si,A,MF,30,NA
+CT-04-024-JC,4,372431,3206717,NA,01/Nov/2020,Salvador Figueroa,si,A,MF,53,NA
+CT-04-025-JC,4,372634,3206907,NA,01/Nov/2020,Salvador Figueroa,si,A,MF,37,NA
+CT-04-026-CE,4,373787,3206035,23/Oct/2020,01/Nov/2020,Francisco Duarte,si,A,MF,38,NA
+CT-04-027-CE,4,373992,3206557,NA,01/Nov/2020,Francisco Duarte,si,A,MF,56,NA
+CT-04-028-CE,4,374103,3206292,NA,01/Nov/2020,Francisco Duarte,si,A,MF,22,NA
+CA-01-001-CA,1,375311,3196733,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-01-002-CA,1,375555,3197590,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,50,NA
+CA-01-003-CA,1,375638,3198565,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-01-004-CA,1,376077,3199390,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,0,NA
+CA-01-005-CA,1,376045,3200225,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,40,NA
+CA-01-006-CA,1,375236,3200753,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,0,NA
+CA-02-007-CA,2,375491,3201613,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,40,NA
+CA-02-008-CA,2,375937,3202460,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,0,NA
+CA-02-009-CA,2,376503,3203157,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-02-010-CA,2,376552,3203709,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,43,Fecha incorrecta 24/Ene/2017
+CA-03-011-CA,3,376105,3204567,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-012-CA,3,376679,3204890,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,69,NA
+CA-03-013-CA,3,377030,3205568,14/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,41,Atigrado
+CA-03-013-CA,3,377030,3205568,16/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,41,Atigrado
+CA-03-014-CA,3,377553,3206074,14/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,44,Atigrado
+CA-03-014-CA,3,377553,3206074,16/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,44,Atigrado
+CA-03-014-CA,3,377553,3206074,21/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,44,Juvenil negro
+CA-03-014-CA,3,377553,3206074,24/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,44,Atigrado
+CA-03-015-CA,3,378092,3206226,15/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,44,Color negro
+CA-03-016-CA,3,378018,3207028,13/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-016-CA,3,378018,3207028,14/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-016-CA,3,378018,3207028,20/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-016-CA,3,378018,3207028,27/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,40,NA
+CA-03-017-CA,3,378060,3207984,17/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-017-CA,3,378060,3207984,19/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-017-CA,3,378060,3207984,23/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,42,NA
+CA-03-018-CA,3,377701,3208818,18/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,38,NA
+CA-03-018-CA,3,377701,3208818,19/Oct/2020,01/Nov/2020,Karem Ramirez,si,A,MF,38,NA
+CA-03-019-CA,3,377368,3209599,NA,01/Nov/2020,Karem Ramirez,si,A,MF,44,NA
+CA-03-020-CA,3,376564,3210201,NA,01/Nov/2020,Karem Ramirez,si,A,MF,47,NA
+CA-03-021-CA,3,375781,3210807,25/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,17,NA
+CA-03-021-CA,3,375781,3210807,23/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,17,NA
+CA-03-021-CA,3,375781,3210807,19/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,17,NA
+CA-03-021-CA,3,375781,3210807,18/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,17,NA
+CA-04-022-CA,4,376083,3211390,15/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,45,NA
+CA-04-022-CA,4,376083,3211390,19/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,45,NA
+CA-04-023-CA,4,375750,3212148,NA,01/Nov/2020,Jessica Vazquez,si,A,MF,38,NA
+CA-04-024-CA,4,375166,3212910,09/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,32,NA
+CA-04-024-CA,4,375166,3212910,10/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,32,NA
+CA-04-024-CA,4,375166,3212910,11/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,32,NA
+CA-04-024-CA,4,375166,3212910,22/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,32,NA
+CA-04-025-CA,4,374874,3213653,11/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CA-04-025-CA,4,374874,3213653,13/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CA-04-025-CA,4,374874,3213653,14/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CA-04-025-CA,4,374874,3213653,16/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CA-04-025-CA,4,374874,3213653,17/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CA-05-027-CA,5,373974,3215014,15/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,30,Aparece grupo de 4 gatos un adulto y tres juveniles
+CA-05-028-CA,5,373891,3215997,NA,01/Nov/2020,Abigail Vera,si,A,MF,47,NA
+CA-05-029-CA,5,373918,3216924,10/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,37,Gato negro foto de noche
+CA-05-030-CA,5,373151,3217342,14/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,34,Gato negro foto de noche
+CA-06-031-CA,6,373212,3218239,23/Oct/2020,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,30,NA
+CA-06-032-CA,6,372543,3218939,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,22,NA
+CA-06-033-CA,6,372149,3219771,09/Oct/2020,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,44,Atigrado
+CA-06-033-CA,6,372149,3219771,13/Oct/2020,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,44,Atigrado
+CA-06-033-CA,6,372149,3219771,17/Oct/2020,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,44,Atigrado
+CA-06-034-CA,6,371420,3220438,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,37,NA
+CA-07-035-CA,7,370783,3221181,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,30,NA
+CA-01-001-ED,1,373960,3196309,NA,01/Nov/2020,Yureli Garibay Melendrez,si,A,MF,38,NA
+CA-01-002-EF,1,373993,3196320,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,30,NA
+CA-01-003-OD,1,373893,3196557,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,50,NA
+CA-01-004-OF,1,373942,3196581,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,49,NA
+CA-01-005-PF,1,373993,3196320,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,30,NA
+CA-01-006-PD,1,373960,3196309,NA,01/Nov/2020,Emmanuel Mendoza,si,A,MF,0,NA
+CA-01-004-OF,1,373942,3196581,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,NA,NA
+CA-01-003-OD,1,373893,3196557,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,NA,NA
+CA-01-005-PF,1,373993,3196320,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,NA,NA
+CA-01-006-PD,1,373960,3196309,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,NA,NA
+CA-01-002-EF,1,373993,3196320,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,NA,NA
+CA-01-001-ED,1,373960,3196309,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,NA,NA
+CA-01-001-CA,1,375311,3196733,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-01-002-CA,1,375555,3197590,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-01-003-CA,1,375638,3198565,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,36,NA
+CA-01-004-CA,1,376077,3199390,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,15,Se encontro apagada
+CA-01-005-CA,1,376045,3200225,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,39,NA
+CA-01-006-CA,1,375236,3200753,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,17,Se encontro apagada
+CA-02-007-CA,2,375491,3201613,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,30,NA
+CA-02-008-CA,2,375937,3202460,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,21,Se encontro apagada
+CA-02-009-CA,2,376503,3203157,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,42,NA
+CA-02-010-CA,2,376552,3203709,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,41,NA
+CA-03-011-CA,3,376105,3204567,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,41,NA
+CA-03-012-CA,3,376679,3204890,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,68,Memoria dañada
+CA-03-013-CA,3,377030,3205568,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,39,Memoria dañada
+CA-03-014-CA,3,377553,3206074,15/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,43,NA
+CA-03-014-CA,3,377553,3206074,13/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,43,NA
+CA-03-014-CA,3,377553,3206074,09/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,43,NA
+CA-03-014-CA,3,377553,3206074,28/Oct/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,43,NA
+CA-03-015-CA,3,378092,3206226,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,26,NA
+CA-03-016-CA,3,378018,3207028,27/Oct/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-016-CA,3,378018,3207028,01/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-016-CA,3,378018,3207028,09/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-016-CA,3,378018,3207028,23/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-016-CA,3,378018,3207028,25/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,38,NA
+CA-03-017-CA,3,378060,3207984,01/Dic/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,40,NA
+CA-03-018-CA,3,377701,3208818,04/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,37,NA
+CA-03-018-CA,3,377701,3208818,06/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,37,NA
+CA-03-019-CA,3,377368,3209599,10/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,43,NA
+CA-03-020-CA,3,376564,3210201,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,70,NA
+CA-03-021-CA,3,375781,3210807,03/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-021-CA,3,375781,3210807,07/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-021-CA,3,375781,3210807,19/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-021-CA,3,375781,3210807,20/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-03-021-CA,3,375781,3210807,21/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,42,NA
+CA-04-022-CA,4,376083,3211390,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,20,NA
+CA-04-023-CA,4,375750,3212148,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,27,NA
+CA-04-024-CA,4,375166,3212910,NA,06/Dic/2020,Monserrat Miranda,si,A,MF,40,NA
+CA-04-025-CA,4,374874,3213653,11/Ago/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,37,NA
+CA-04-025-CA,4,374874,3213653,11/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,37,NA
+CA-04-025-CA,4,374874,3213653,12/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,37,NA
+CA-04-025-CA,4,374874,3213653,19/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,37,NA
+CA-04-025-CA,4,374874,3213653,20/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,37,NA
+CA-04-026-CA,4,374282,3214159,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,64,NA
+CA-05-027-CA,5,373974,3215014,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,30,NA
+CA-05-028-CA,5,373891,3215997,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,45,NA
+CA-05-029-CA,5,373918,3216924,18/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-05-029-CA,5,373918,3216924,19/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-05-029-CA,5,373918,3216924,21/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-05-029-CA,5,373918,3216924,22/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-05-029-CA,5,373918,3216924,24/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-05-029-CA,5,373918,3216924,26/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,34,NA
+CA-05-030-CA,5,373151,3217342,22/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,33,NA
+CA-05-030-CA,5,373151,3217342,24/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,33,NA
+CA-05-030-CA,5,373151,3217342,26/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,33,NA
+CA-06-031-CA,6,373212,3218239,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,29,NA
+CA-06-032-CA,6,372543,3218939,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,50,NA
+CA-06-033-CA,6,372149,3219771,24/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,42,NA
+CA-06-033-CA,6,372149,3219771,27/Nov/2020,06/Dic/2020,Salvador Figueroa,si,A,MF,42,NA
+CA-06-034-CA,6,371420,3220438,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,36,NA
+CA-07-035-CA,7,370783,3221181,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,29,NA
+CT-01-007-AG,1,379877,3199693,NA,06/Dic/2020,Daniela Mendez,si,A,MF,35,NA
+CT-01-013-AG,1,379742,3200171,NA,06/Dic/2020,Daniela Mendez,si,A,MF,38,NA
+CT-01-001-CF,1,376596,3199112,NA,06/Dic/2020,Jose Cortez,si,A,MF,42,NA
+CT-01-002-CF,1,377371,3198915,NA,06/Dic/2020,Jose Cortez,si,A,MF,72,NA
+CT-01-004-AL,1,378596,3197903,NA,06/Dic/2020,Jose Cortez,si,A,MF,25,NA
+CT-01-005-AL,1,377921,3198375,NA,06/Dic/2020,Jose Cortez,si,A,MF,76,NA
+CT-01-008-VA,1,375020,3199056,NA,06/Dic/2020,Oscar Holguin,si,A,MF,43,NA
+CT-01-011-AM,1,376550,3200038,NA,06/Dic/2020,Cristian Flores,si,A,MF,45,NA
+CT-01-012-AM,1,377324,3200170,NA,06/Dic/2020,Cristian Flores,si,A,MF,41,NA
+CT-01-014-NN,1,378217,3199988,NA,06/Dic/2020,Cristian Flores,si,A,MF,58,NA
+CT-01-015-NN,1,378682,3199475,NA,06/Dic/2020,Cristian Flores,si,A,MF,36,NA
+CT-01-018-CA,1,379058,3200544,NA,06/Dic/2020,Daniela Mendez,si,A,MF,36,NA
+CT-01-019-JC,1,375861,3200724,NA,06/Dic/2020,Oscar Holguin,si,A,MF,40,NA
+CT-01-020-JC,1,377078,3200735,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,39,NA
+CT-01-021-JC,1,378111,3200749,NA,06/Dic/2020,Daniela Mendez,si,A,MF,39,NA
+CT-01-022-NN,1,375679,3200264,NA,06/Dic/2020,Oscar Holguin,si,A,MF,30,NA
+CT-01-023-NN,1,374709,3200062,NA,06/Dic/2020,Oscar Holguin,si,A,MF,39,NA
+CT-01-024-NN,1,374763,3200514,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-01-025-JC,1,377074,3201294,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,34,NA
+CT-01-026-JC,1,378014,3201218,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,43,NA
+CT-01-027-JC,1,379096,3201327,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,35,NA
+CT-02-016-AM,2,379896,3205021,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,10,Cambiar camara en la proxima revision
+CT-02-017-CA,2,379539,3204881,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,36,NA
+CT-02-020-CA,2,377740,3204683,NA,06/Dic/2020,NA,si,D,NA,NA,No esta en campo 
+CT-02-021-CA,2,379099,3205023,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,10,Cambiar camara en la proxima revision
+CT-02-022-CA,2,378081,3205105,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,45,Memoria no formateada; contenia informacion de Lucero
+CT-02-079-MD,2,377593,3205001,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,68,NA
+CT-03-022-KR,3,378654,3207757,NA,06/Dic/2020,Karem Ramirez,si,A,MF,25,NA
+CT-03-023-KR,3,379264,3207681,NA,06/Dic/2020,Karem Ramirez,si,A,MF,45,NA
+CT-03-024-EM,3,377497,3208086,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-025-EM,3,377926,3208284,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-026-EM,3,378571,3208469,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-027-EM,3,379124,3208464,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-028-EM,3,379636,3208617,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-029-JV,3,376457,3207349,NA,06/Dic/2020,Luis Hernandez,si,A,MF,69,NA
+CT-03-030-JV,3,376637,3207298,02/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,64,NA
+CT-03-030-JV,3,376637,3207298,03/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,64,NA
+CT-03-030-JV,3,376637,3207298,04/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,64,NA
+CT-03-031-JV,3,376761,3207090,NA,06/Dic/2020,Luis Hernandez,si,A,MF,41,NA
+CT-03-032-JV,3,376971,3206983,12/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,19/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,20/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,22/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,23/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,30/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,01/Dic/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,02/Dic/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-032-JV,3,376971,3206983,03/Dic/2020,06/Dic/2020,Luis Hernandez,si,A,MF,48,NA
+CT-03-033-JV,3,377119,3206932,06/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,07/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,12/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,13/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,19/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,23/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,27/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,29/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,30/Nov/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,01/Dic/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,02/Dic/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-033-JV,3,377119,3206932,03/Dic/2020,06/Dic/2020,Luis Hernandez,si,A,MF,49,NA
+CT-03-034-AR,3,376562,3208148,30/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,38,NA
+CT-03-035-AR,3,376778,3208127,NA,06/Dic/2020,Jessica Vazquez,si,A,MF,43,NA
+CT-03-036-AR,3,376968,3208027,31/Oct/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,01/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,02/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,04/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,08/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,09/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,11/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,13/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,18/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,22/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-036-AR,3,376968,3208027,02/Dic/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,95,NA
+CT-03-037-AR,3,377114,3207851,30/Oct/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,92,NA
+CT-03-037-AR,3,377114,3207851,01/Nov/2020,06/Dic/2020,Jessica Vazquez,si,A,MF,92,NA
+CT-03-038-AR,3,377394,3207807,NA,06/Dic/2020,Jessica Vazquez,si,A,MF,49,NA
+CT-03-039-AR,3,377446,3207648,NA,06/Dic/2020,Jessica Vazquez,si,A,MF,77,NA
+CT-03-040-KR,3,376561,3207726,06/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,53,NA
+CT-03-040-KR,3,376561,3207726,08/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,53,NA
+CT-03-040-KR,3,376561,3207726,09/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,53,NA
+CT-03-040-KR,3,376561,3207726,16/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,53,NA
+CT-03-040-KR,3,376561,3207726,29/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,53,NA
+CT-03-040-KR,3,376561,3207726,30/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,53,NA
+CT-03-041-KR,3,376791,3207687,03/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,57,NA
+CT-03-041-KR,3,376791,3207687,05/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,57,NA
+CT-03-041-KR,3,376791,3207687,10/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,57,NA
+CT-03-041-KR,3,376791,3207687,01/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,57,NA
+CT-03-042-KR,3,377018,3207694,01/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,68,NA
+CT-03-042-KR,3,377018,3207694,11/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,68,NA
+CT-03-042-KR,3,377018,3207694,12/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,68,NA
+CT-03-042-KR,3,377018,3207694,17/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,68,NA
+CT-03-042-KR,3,377018,3207694,29/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,68,NA
+CT-03-043-KR,3,377247,3207576,30/Oct/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,31/Oct/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,03/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,05/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,14/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,24/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,26/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-043-KR,3,377247,3207576,27/Nov/2020,06/Dic/2020,Laura Abigail,si,A,MF,33,NA
+CT-03-044-KR,3,377401,3207521,NA,06/Dic/2020,Laura Abigail,si,A,MF,40,NA
+CT-03-001-MD,3,376945,3205027,NA,06/Dic/2020,Salvador Figueroa,si,A,MF,26,NA
+CT-03-002-FM,3,378549,3205651,10/Nov/2020,06/Dic/2020,David Najera,si,A,MF,38,NA
+CT-03-002-FM,3,378549,3205651,16/Nov/2020,06/Dic/2020,David Najera,si,A,MF,38,NA
+CT-03-002-FM,3,378549,3205651,20/Nov/2020,06/Dic/2020,David Najera,si,A,MF,38,NA
+CT-03-002-FM,3,378549,3205651,25/Nov/2020,06/Dic/2020,David Najera,si,A,MF,38,NA
+CT-03-002-FM,3,378549,3205651,28/Nov/2020,06/Dic/2020,David Najera,si,A,MF,38,NA
+CT-03-003-FM,3,379011,3205923,NA,06/Dic/2020,David Najera,si,A,MF,53,NA
+CT-03-004-FM,3,379380,3205916,NA,06/Dic/2020,David Najera,si,A,MF,56,NA
+CT-03-005-FM,3,379904,3205855,NA,06/Dic/2020,David Najera,si,A,NF,50,NA
+CT-03-006-NN,3,380182,3205976,NA,06/Dic/2020,David Najera,si,D,NA,NA,no HAY CAMARA
+CT-03-007-NN,3,380000,3205634,NA,06/Dic/2020,David Najera,si,A,MF,92,NA
+CT-03-008-MD,3,377514,3205677,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-009-MD,3,375971,3205982,NA,06/Dic/2020,NA,si,D,NA,NA,NA
+CT-03-010-AM,3,378331,3206568,NA,06/Dic/2020,Yureli Garibay,si,A,MF,47,NA
+CT-03-011-AM,3,378784,3206502,29/Oct/2020,06/Dic/2020,Yureli Garibay,si,A,MF,53,NA
+CT-03-011-AM,3,378784,3206502,14/Nov/2020,06/Dic/2020,Yureli Garibay,si,A,MF,53,NA
+CT-03-011-AM,3,378784,3206502,26/Nov/2020,06/Dic/2020,Yureli Garibay,si,A,MF,53,NA
+CT-03-012-AM,3,379112,3206595,NA,06/Dic/2020,Yureli Garibay,si,A,MF,28,NA
+CT-03-013-AM,3,379438,3206593,18/Nov/2020,06/Dic/2020,Yureli Garibay,si,A,MF,45,NA
+CT-03-014-AM,3,379653,3206547,NA,06/Dic/2020,Yureli Garibay,si,A,MF,54,NA
+CT-03-015-NN,3,380199,3206397,NA,06/Dic/2020,Yureli Garibay,si,A,NA,47,NA
+CT-03-016-AR,3,378636,3207266,NA,06/Dic/2020,Yael Schoeppe,si,A,NA,NA,no HAY CAMARA
+CT-03-017-AR,3,379072,3207296,NA,06/Dic/2020,Yael Schoeppe,si,A,MF,0,NA
+CT-03-018-AR,3,379506,3207205,NA,06/Dic/2020,Yael Schoeppe,si,A,MF,46,NA
+CT-03-019-AR,3,380009,3207168,NA,06/Dic/2020,Yael Schoeppe,si,A,MF,45,NA
+CT-03-098-NN,3,380084,3206952,NA,06/Dic/2020,Yael Schoeppe,si,A,MF,39,NA
+CT-03-021-KR,3,378286,3207725,NA,06/Dic/2020,Karem Ramirez,si,A,MF,31,NA
+CT-02-001-JC,2,377254,3202696,NA,06/Dic/2020,Maribel Zavala,si,A,NA,47,NA
+CT-02-002-JC,2,378188,3202157,NA,06/Dic/2020,Maribel Zavala,si,A,MF,43,NA
+CT-02-003-JC,2,379173,3202418,NA,06/Dic/2020,Maribel Zavala,si,A,MF,43,NA
+CT-02-004-JC,2,378463,3202889,NA,06/Dic/2020,Maribel Zavala,si,A,MF,39,NA
+CT-02-005-VA,2,374969,3203245,NA,06/Dic/2020,Monserrat Miranda,si,A,MF,38,NA
+CT-02-006-VA,2,374693,3203785,NA,06/Dic/2020,Monserrat Miranda,si,A,MF,33,NA
+CT-02-007-VA,2,374838,3204477,NA,06/Dic/2020,Monserrat Miranda,si,A,MF,37,NA
+CT-02-008-VA,2,375249,3204456,NA,06/Dic/2020,Monserrat Miranda,si,A,MF,47,NA
+CT-02-009-AM,2,377566,3203890,NA,06/Dic/2020,Alexis Rafael,si,A,MF,23,NA
+CT-02-010-AM,2,378239,3203805,NA,06/Dic/2020,Alexis Rafael,si,A,MF,5,NA
+CT-02-011-AM,2,378858,3203735,NA,06/Dic/2020,Alexis Rafael,si,A,MF,4,NA
+CT-02-012-AL,2,379389,3203796,NA,06/Dic/2020,Alexis Rafael,si,A,MF,39,NA
+CT-02-013-AL,2,379977,3203821,NA,06/Dic/2020,Alexis Rafael,si,A,MF,40,NA
+CT-02-014-AL,2,380536,3203863,NA,06/Dic/2020,Alexis Rafael,si,A,MF,36,No hubo cambio de memoria
+CT-02-015-MA,2,380028,3204514,NA,06/Dic/2020,Karla Sanchez,si,A,MF,25,NA
+CT-02-018-CA,2,379372,3204631,NA,06/Dic/2020,Karla Sanchez,si,A,MF,40,NA
+CT-04-001-AL,4,373281,3210244,NA,06/Dic/2020,Alexis Rafael,si,A,MF,39,NA
+CT-04-002-AL,4,373240,3210507,NA,06/Dic/2020,Alexis Rafael,si,A,MF,49,NA
+CT-04-003-AL,4,373477,3210456,NA,06/Dic/2020,Alexis Rafael,si,A,MF,0,NA
+CT-04-007-AA,4,373023,3207715,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,56,NA
+CT-04-008-CE,4,373113,3208032,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,38,Se encontraba apagada
+CT-04-009-CE,4,373066,3208475,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,70,NA
+CT-04-010-CE,4,373411,3208601,02/Dic/2020,06/Dic/2020,Alexis Rafael,si,A,MF,31,NA
+CT-04-010-CE,4,373411,3208601,03/Dic/2020,06/Dic/2020,Alexis Rafael,si,A,MF,31,NA
+CT-04-011-NN,4,373814,3208705,NA,06/Dic/2020,Alexis Rafael,si,A,MF,0,NA
+CT-04-012-NN,4,373559,3209125,NA,06/Dic/2020,Alexis Rafael,si,A,MF,0,NA
+CT-04-013-NN,4,373981,3209120,03/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,27,NA
+CT-04-013-NN,4,373981,3209120,09/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,27,NA
+CT-04-013-NN,4,373981,3209120,12/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,27,NA
+CT-04-013-NN,4,373981,3209120,16/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,27,NA
+CT-04-013-NN,4,373981,3209120,19/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,27,NA
+CT-04-013-NN,4,373981,3209120,22/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,27,NA
+CT-04-063-NN,4,374278,3209523,04/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,48,NA
+CT-04-063-NN,4,374278,3209523,12/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,48,NA
+CT-04-063-NN,4,374278,3209523,17/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,48,NA
+CT-04-063-NN,4,374278,3209523,22/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,48,NA
+CT-04-063-NN,4,374278,3209523,26/Nov/2020,06/Dic/2020,Alexis Rafael,si,A,MF,48,NA
+CT-04-015-JC,4,374645,3209892,NA,06/Dic/2020,Alexis Rafael,si,A,MF,0,NA
+CT-04-016-JC,4,374979,3210366,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,57,SD danada
+CT-04-017-AA,4,373185,3206582,NA,06/Dic/2020,Maribel Zavala,si,A,MF,36,NA
+CT-04-018-AA,4,373399,3206702,02/Nov/2020,06/Dic/2020,Maribel Zavala,si,A,MF,32,NA
+CT-04-018-AA,4,373399,3206702,13/Nov/2020,06/Dic/2020,Maribel Zavala,si,A,MF,32,NA
+CT-04-018-AA,4,373399,3206702,20/Nov/2020,06/Dic/2020,Maribel Zavala,si,A,MF,32,NA
+CT-04-018-AA,4,373399,3206702,23/Nov/2020,06/Dic/2020,Maribel Zavala,si,A,MF,32,NA
+CT-04-019-AA,4,373468,3207009,NA,06/Dic/2020,Maribel Zavala,si,A,MF,47,NA
+CT-04-020-NN,4,373931,3207763,03/Mar/2017,06/Dic/2020,Monserrat Miranda,si,A,MF,46,Error en fecha
+CT-04-020-NN,4,373931,3207763,10/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-020-NN,4,373931,3207763,11/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-020-NN,4,373931,3207763,13/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-020-NN,4,373931,3207763,14/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-020-NN,4,373931,3207763,16/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-020-NN,4,373931,3207763,19/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-020-NN,4,373931,3207763,28/Nov/2020,06/Dic/2020,Monserrat Miranda,si,A,MF,46,NA
+CT-04-021-NN,4,373838,3207516,29/Abr/2017,06/Dic/2020,Monserrat Miranda,si,A,MF,45,Error en fecha
+CT-04-022-NN,4,373685,3207269,25/Sep/2017,06/Dic/2020,Monserrat Miranda,si,A,MF,38,NA
+CT-04-023-JC,4,372321,3206638,NA,06/Dic/2020,Karla Sanchez,si,A,MF,52,NA
+CT-04-024-JC,4,372431,3206717,05/Nov/2020,06/Dic/2020,Karla Sanchez,si,A,MF,46,NA
+CT-04-025-JC,4,372634,3206907,NA,06/Dic/2020,Karla Sanchez,si,A,MF,0,No se puede reproducir
+CT-04-026-CE,4,373787,3206035,17/Nov/2020,06/Dic/2020,Emmanuel Mendoza,si,A,MF,28,NA
+CT-04-027-CE,4,373992,3206557,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,50,NA
+CT-04-028-CE,4,374103,3206292,NA,06/Dic/2020,Emmanuel Mendoza,si,A,MF,29,NA
+CA-03-014-CA,3,377553,3206074,13/Oct/2020,01/Nov/2020,Emmanuel Mendoza,si,A,MF,44,Individuo marmoleado
+CA-03-020-CA,3,376564,3210201,17/Mar/2020,29/Mar/2020,Yureli Garibay,si,A,MF,42,Atigrado.
+CA-04-022-CA,4,376083,3211390,30/Ene/2020,22/Feb/2020,David Najera,si,A,MF,41,IMG 13; 14
+CA-04-022-CA,4,376083,3211390,31/Ene/2020,22/Feb/2020,David Najera,si,A,MF,41,IMG 22; 23; 24
+CA-04-025-CA,4,374874,3213653,15/Oct/2020,01/Nov/2020,Jessica Vazquez,si,A,MF,36,NA
+CA-04-026-CA,4,374282,3214159,18/Oct/2020,01/Nov/2020,Abigail Vera,si,A,MF,5,NA
+CT-02-018-CA,2,379372,3204631,NA,11/Oct/2020,Yureli Garibay,si,A,MF,43,Fecha y hora incorrecta; 20/Ago/2017
+CT-02-019-CA,2,378530,3204639,NA,06/Dic/2020,Karla Sanchez,si,A,MF,NA,Estaba apagada 
+CT-03-002-FM,3,378549,3205651,22/Feb/2020,26/Abr/2020,Francisco Duarte,si,A,MF,65,Gato Gris; Patron Atigrado
+CT-03-002-FM,3,378549,3205651,23/Feb/2020,26/Abr/2020,Francisco Duarte,si,A,MF,65,Gato Color Negro; Patron Solido 
+CT-03-002-FM,3,378549,3205651,25/Feb/2020,26/Abr/2020,Francisco Duarte,si,A,MF,65,Gato Color Negro;Patron Solido
+CT-03-003-FM,3,379011,3205923,01/Abr/2020,26/Abr/2020,Francisco Duarte,si,A,MF,66,Gato Negro; Patron Solido 
+CT-03-003-FM,3,379011,3205923,24/Mar/2020,26/Abr/2020,Francisco Duarte,si,A,MF,66,Gato Color Negro; Patron Solido
+CT-03-024-EM,3,377497,3208086,NA,11/Oct/2020,Emmanuel Mendoza,si,A,MF,30,NA
+CT-03-029-JV,3,376457,3207349,21/May/2020,11/Oct/2020,Emmanuel Mendoza,si,A,MF,69,Sse repite camara con este nombre
+CT-03-037-AR,3,377114,3207851,NA,01/Nov/2020,Abigail Vera,si,A,MF,100,el lente esta sucio;la fecha y hora estan mal 03/29/2018 00:28 
+CT-04-007-AA,4,373023,3207715,23/Mar/2020,26/Abr/2020,Francisco Duarte,si,A,MF,42,Gato Color Negro; Patron Solido
+CT-04-007-AA,4,373023,3207715,26/Mar/2020,26/Abr/2020,Francisco Duarte,si,A,MF,42,Gato Color Gris; Patron Atigrado
+CT-04-008-CE,4,373113,3208032,15/Abr/2020,26/Abr/2020,Francisco Duarte,si,A,MF,44,Gato Gris; Patron Atigrado
+CT-04-008-CE,4,373113,3208032,22/Abr/2020,26/Abr/2020,Francisco Duarte,si,A,MF,44,Gato Color Gris; Patron Atigrado(Con Collar)
+CT-04-009-CE,4,373066,3208475,21/Ene/2020,01/Feb/2020,David Najera,si,A,MF,44,Gato atigrado
+CT-04-010-CE,4,373411,3208601,23/Jul/2020,16/Ago/2020,David Cosio Muriel ,si,A,MF,34,Individuo atigrado 
+CT-04-012-NN,4,373559,3209125,16/Ene/2020,01/Feb/2020,David Najera,si,A,MF,42,NA
+CT-04-012-NN,4,373559,3209125,23/Jul/2020,16/Ago/2020,David Cosio Muriel ,si,A,MF,37,Individuo atigrado 
+CT-04-014-JC,4,374278,3209523,09/Abr/2020,26/Abr/2020,Francisco Duarte,si,A,MF,76,Gato Color Gris;Patron Atigrado
+CT-04-014-JC,4,374278,3209523,11/Abr/2020,26/Abr/2020,Francisco Duarte,si,A,MF,76,Gato Color Gris;Patron Atigrado
+CT-04-014-JC,4,374278,3209523,21/Jul/2020,16/Ago/2020,David Cosio Muriel ,si,A,MF,50,Individuo negro 
+CT-04-014-JC,4,374278,3209523,22/Feb/2020,26/Abr/2020,Francisco Duarte,si,A,MF,76,Gato Color Gris; Patron Atigrado
+CT-04-014-JC,4,374278,3209523,27/Mar/2020,26/Abr/2020,Francisco Duarte,si,A,MF,76,Gato Color Negro; Patron Solido
+CT-04-015-JC,4,374645,3209892,08/Mar/2020,26/Abr/2020,Francisco Duarte,si,A,MF,45,Gato Color Gris;Patron Atigrado
+CT-04-015-JC,4,374645,3209892,10/Mar/2020,26/Abr/2020,Francisco Duarte,si,A,MF,45,Gato Color Gris;Patron Atigrado
+CT-04-027-CE,4,373992,3206557,04/Mar/2020,26/Abr/2020,Emmanuel Mendoza,si,A,MF,41, Individuo Color Negro
+CT-04-027-CE,4,373992,3206557,26/Feb/2020,26/Abr/2020,Emmanuel Mendoza,si,A,MF,41,Cachorro Color Negro
+CT-04-028-CE,4,374103,3206292,22/Abr/2020,26/Abr/2020,Emmanuel Mendoza,si,A,MF,49,El Año En La Fotografía Aparece Como 2017
+CA-01-004-OF,1,373942,3196581,NA,10/Ene/2021,Jessica Vazquez,si,D,MF,0,No tenia SD
+CA-01-003-OD,1,373893,3196557,27/Dic/2020,10/Ene/2021,Jessica Vazquez,si,A,MF,47,NA
+CA-01-005-PF,1,373993,3196320,NA,10/Ene/2021,Jessica Vazquez,si,A,MF,37,NA
+CA-01-006-PD,1,373960,3196309,NA,10/Ene/2021,Luis Martinez,si,A,MF,45,NA
+CA-01-002-EF,1,373993,3196320,NA,10/Ene/2021,Luis Martinez,si,A,MF,38,NA
+CA-01-001-ED,1,373960,3196309,NA,10/Ene/2021,Luis Martinez,si,A,MF,38,NA
+CA-01-001-CA,1,375311,3196733,NA,10/Ene/2021,Jessica Vazquez,si,A,MF,34,NA
+CA-01-002-CA,1,375555,3197590,NA,10/Ene/2021,Jessica Vazquez,si,A,MF,32,NA
+CA-01-003-CA,1,375638,3198565,NA,10/Ene/2021,Jessica Vazquez,si,A,MF,34,NA
+CA-01-004-CA,1,376077,3199390,NA,10/Ene/2021,Salvador Figueroa,si,A,MF,49,NA
+CA-01-005-CA,1,376045,3200225,NA,10/Ene/2021,Salvador Figueroa,si,A,MF,40,NA
+CA-01-006-CA,1,375236,3200753,NA,10/Ene/2021,Salvador Figueroa,si,A,MF,0,NA
+CA-02-007-CA,2,375491,3201613,NA,10/Ene/2021,David Najera,si,A,MF,0,Se retiro la camara/ reponer camara trampa
+CA-02-008-CA,2,375937,3202460,NA,10/Ene/2021,David Najera,si,A,MF,49,NA
+CA-02-009-CA,2,376503,3203157,NA,10/Ene/2021,David Najera,si,A,MF,42,NA
+CA-02-010-CA,2,376552,3203709,NA,10/Ene/2021,David Najera,si,A,MF,40,NA
+CA-03-011-CA,3,376105,3204567,22/Dic/2020,10/Ene/2021,David Najera,si,A,MF,40,NA
+CA-03-012-CA,3,376679,3204890,11/Dic/2020,10/Ene/2021,David Najera,si,A,MF,67,NA
+CA-03-012-CA,3,376679,3204890,16/Dic/2020,10/Ene/2021,David Najera,si,A,MF,67,NA
+CA-03-013-CA,3,377030,3205568,11/Dic/2020,10/Ene/2021,Luis Martinez,si,A,MF,38,Gato color negro
+CA-03-013-CA,3,377030,3205568,16/Dic/2020,10/Ene/2021,Luis Martinez,si,A,MF,38,Gato color negro
+CA-03-013-CA,3,377030,3205568,17/Dic/2020,10/Ene/2021,Luis Martinez,si,A,MF,38,Gato color negro

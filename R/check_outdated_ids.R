@@ -1,6 +1,6 @@
 camaras_trampa_campo <- read.csv("tests/data/subset_revision_campo.csv")
 
-DEFAULT_PATH = "../data/list_of_obsolet_camera.csv"
+DEFAULT_PATH <- "../data/list_of_obsolet_camera.csv"
 get_id_from_outdated_cameras <- function(path = DEFAULT_PATH) {
   obsolete_cameras <- read_csv(path, show_col_types = FALSE) %>% filter(Vigencia == "obsoleto")
   obsolete_id <- unique(obsolete_cameras$ID_camara_trampa)
